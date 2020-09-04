@@ -14,6 +14,7 @@ public class CompanyService {
     @Autowired
     private CompanyDao companyDao;
 
+    @Autowired
     private IdWorker idWorker;
 
     /**
